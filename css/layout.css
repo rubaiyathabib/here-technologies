@@ -1,0 +1,195 @@
+* {
+  padding: 0
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+img{
+	max-width: 100%;
+}
+
+span{
+	display: block;
+}
+
+
+/**nav section**/
+
+#grad {
+  background-image: linear-gradient(to right , #cece93, #95cee0);
+  border-color: linear-gradient(to right , lightyellow, lightblue);
+  
+}
+
+#grad1 {
+  background-image: linear-gradient(to right , #95cee0, #cece93);
+  border-color: linear-gradient(to right , lightblue, lightyellow);
+  
+}
+
+
+#grad:hover{
+	background: #2cb0da;
+	color: #5f6567;
+}
+
+
+#grad1:hover{
+	background: #2cb0da;
+	color: #5f6567;
+}
+
+.btn:hover{
+	background: #2cb0da !important;
+	color: #5f6567 !important;
+}
+
+/**nav section**/
+
+.banner-section{
+	background: url(../images/here.jpg);
+	background-color: #00000026;
+    background-blend-mode: multiply;
+    padding: 20px 0;
+	background-size: cover;
+	background-position: inherit;
+	background-repeat: no-repeat;
+}
+
+
+.pad{
+  	padding: 0px 150px;
+    padding-left: 60px;
+    line-height: 27px;
+    text-align: justify;
+}
+
+
+header{
+   	padding-top: 20px !important;
+    padding-bottom: 15px !important;
+}
+
+
+.logo, .organization{
+	background-color: #f6f6f6;
+}
+
+
+/**main content**/
+#ig{
+	max-width: 572px;
+}
+
+h6{
+	font-size: 15px !important;
+}
+
+.cont{
+	padding: 0;
+	margin: 0;
+	max-width: 100%;
+}
+
+.cont .col-xl-6 {
+    padding: 0;
+}
+
+/**main content**/
+
+/**organisation content**/
+button{
+	font-size: 15px !important;
+	color: #3c3838 !important;
+	padding: 15px 40px !important;
+
+}
+/**organisation content**/
+
+/**unlock content**/
+h6{
+	font-size: 13px;
+}
+/**unlock content**/
+.bg{
+	background-color: #1b222c;
+}
+
+.unlock p{
+	line-height: 27px;
+
+}
+
+.po{
+	padding-top: 36px;
+}
+
+.po1{
+	padding-top: 53px;
+}
+
+.dark{
+	color: #fff;
+	border-color: #2cb0da;
+}
+
+.unlock a{
+	text-decoration: none !important;
+}
+
+i{
+	font-size: 25px;
+	color: #3c3838 !important;
+
+}
+
+i:hover{
+	background: #2cb0da;
+	color: #5f6567;
+	border-radius: 30px;
+}
+
+#fo{
+	font-size: 13px;
+	padding-left: 18px;
+	letter-spacing: 1px;
+}
+
+.shift{
+	padding-right: 50px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+	}    
+
+/**footer**/
+.line{
+	display: inline-block;
+	background: #fff;
+	height: 1px;
+	width: 1110px;
+}
+
+footer{
+	background-color: #3f454d;
+}
+
+li{
+	
+	list-style-type: none;
+
+}
+
+li a{
+	color: #fff !important;
+}
+
+
+.size{
+	font-size: 20px;
+}
+
+.size:hover{
+	background-position: transparent;
+}
+
